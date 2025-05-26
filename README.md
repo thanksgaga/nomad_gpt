@@ -1,3 +1,8 @@
+This is my personal project - trying to build the same GPT app which I built 2023 during the bootcamp..
+
+-----
+
+
 # FULLSTACK - GPT CHALLENGE
 
 https://nomadcoders.co/c/gpt-challenge/lobby
